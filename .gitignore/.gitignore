@@ -1,0 +1,6 @@
+echo "# meme" >> README.md
+git init
+git add README.md
+git commit -m "Ask yourself are your memes spicy enough?"
+git remote add origin https://github.com/BArkBrk/meme.git
+git push -u origin master
